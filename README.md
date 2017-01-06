@@ -3,7 +3,7 @@
 ## Usage
 
 ```sh
-sudo docker run --rm -i kaosf/archpandoc /usr/sbin/pandoc < in.md > out.html
+sudo docker run --rm -i kaosf/archpandoc < in.md > out.html
 ```
 
 ## License
